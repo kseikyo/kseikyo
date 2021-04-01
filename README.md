@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framer motion**
 
-- 👨‍💻 My portofolio is (in development) [lucassierota.netlify.com](lucassierota.netlify.com)
+- 👨‍💻 My portofolio is (in development) [lucassierota.netlify.com](https://lucassierota.netlify.com)
 
 - 💬 Ask me about **Anything from development to philosophy**
 
