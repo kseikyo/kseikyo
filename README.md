@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kseikyo&label=Profile%20views&color=0e75b6&style=flat" alt="kseikyo" /> </p>
 
-- 🔭 I’m currently working on [Conectar](https://boraconectar.com/)
+- 🔭 I’m currently working at [Conectar](https://boraconectar.com/)
 
 - 🌱 I’m currently learning **Framer motion**
 
