@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kseikyo&label=Profile%20views&color=0e75b6&style=flat" alt="kseikyo" /> </p>
 
-- 🔭 I’m currently working at [Conectar](https://boraconectar.com/)
+- 🔭 I’m currently working at [Codengage](https://https://codengage.com//)
 
 - 🌱 I’m currently learning **Framer motion**
 
-- 👨‍💻 My portofolio is (in development) [lucassierota.netlify.com](https://lucassierota.netlify.com)
+- 👨‍💻 My portofolio is @[lucassierota.dev](https://lucassierota.dev/)
 
 - 💬 Ask me about **Anything from development to philosophy**
 
