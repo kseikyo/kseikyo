@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kseikyo&label=Profile%20views&color=0e75b6&style=flat" alt="kseikyo" /> </p>
 
-- 🔭 I’m currently working at [Codengage](https://codengage.com/)
-
 - 🌱 I’m currently learning **Framer motion**
 
 - 👨‍💻 My portofolio is @[lucassierota.dev](https://lucassierota.dev/)
