@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/kseikyo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kseikyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucassierota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucassierota" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kseikyo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kseikyo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8254711/lucas-sierota?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kseikyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
