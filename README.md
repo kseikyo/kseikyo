@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything from development to philosophy**
 
-- 📫 How to reach me **lucassilva@mailfence.com**
+- 📫 How to reach me **contact@lucassierota.dev**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1LHNnSbMc1P0jSxqDjMHvIoVdwbgGsCPi/view)
 
