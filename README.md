@@ -7,11 +7,11 @@
 
 - 🧙‍♂️ Dev #7606 @[Developer DAO](https://www.developerdao.com/)
 
-- 👨‍💻 My portofolio is @[lucassierota.dev](https://lucassierota.dev/)
+- 👨‍💻 My portofolio is @[lucassierota.com](https://lucassierota.com/)
 
 - 💬 Ask me about **Anything from development to philosophy**
 
-- 📫 How to reach me **contact@lucassierota.dev**
+- 📫 How to reach me **contact@lucassierota.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1nifCx4gRT5xdCG9qGxfVpj7PU12ne_9u/view?usp=sharing)
 
