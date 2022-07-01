@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kseikyo&label=Profile%20views&color=0e75b6&style=flat" alt="kseikyo" /> </p>
 
-- 🌱 I’m currently learning **Web3 development**.
+- 🌱 I’m currently working with **Web3 development**.
 
 - 🧙‍♂️ Dev #7606 @[Developer DAO](https://www.developerdao.com/)
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Anything from development to philosophy**
 
 - 📫 How to reach me **contact@lucassierota.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nifCx4gRT5xdCG9qGxfVpj7PU12ne_9u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
