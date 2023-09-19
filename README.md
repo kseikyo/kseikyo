@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Lucas Sierota and I'm a Senior Frontend Engineer, from 🇧🇷</h2>
+<h1 align="center">Hi 👋, I'm Lucas Sierota</h1>
+<h2 align="center">A Senior Frontend Engineer</h2>
 
 ###
 
