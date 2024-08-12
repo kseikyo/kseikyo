@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas Sierota</h1>
-<h2 align="center">A Senior Frontend Engineer</h2>
-
 ###
 
 <div align="center">
